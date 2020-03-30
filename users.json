@@ -1,0 +1,18 @@
+{
+  "a": {
+    "username": "a",
+    "points": 37,
+    "passwordHash": "$2a$10$nkMWg/0yIfltDnu9jAJRdu.FG3ahYu5xNVyB25bwrmG4T4NTrQhb2",
+    "friendsUsernames": [
+      "b"
+    ]
+  },
+  "b": {
+    "username": "b",
+    "points": 22,
+    "passwordHash": "$2a$10$GWOLYVAzOlPXcVGKMDxVf./hOJPZf0go3fl/Ds47cu0zhwroiNH.G",
+    "friendsUsernames": [
+      "a"
+    ]
+  }
+}
